@@ -1,0 +1,10 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    background-color: blue;
+    background-image:linear-gradient(180,rgb(38, 0, 252),rgb(70, 38, 248),rgb(80, 50, 250),rgb(149, 132, 245));
+}
+
